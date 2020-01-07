@@ -1,0 +1,15 @@
+{
+    "project_name": "Name of the project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "creator": "RackN",
+    "full_name": "{{cookiecutter.creator}}",
+    "source_url": "https://github.com/digitalrebar/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "icon_color":"green",
+    "copyright": "RackN",
+    "description": "Ultra Cool Project Description",
+    "display_name": "My Cool Content",
+    "docurl": "https://github.com/digitalrebar/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "icon": "creative commons",
+    "allow_overwrite": "false",
+    "tags": "list,of,things,used,in,ui,to,sort"
+}
