@@ -16,6 +16,3 @@ This content pack only has the folder structure and all required meta files. The
 Be sure to check out [our example content pack](https://github.com/digitalrebar/colordemo) for details on 
 making your own content.
 
-This cookiecutter will also generate directories you may not want to use in your content pack. Be sure to remove 
-ones you do not plan to use. An empty directory will cause the content bundle command to fail.
-
